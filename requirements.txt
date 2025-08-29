@@ -1,0 +1,11 @@
+numpy
+pandas
+ipykernel
+matplotlib
+scikit-learn
+seaborn
+joblib
+xgboost
+streamlit
+kaggle
+kagglehub[pandas-datasets]
